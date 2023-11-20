@@ -29,4 +29,5 @@ artifacts:
   files:
     - '**/*'
   base-directory: '../simple-python-app'
+  discard-paths: yes
 
